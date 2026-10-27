@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+audio_cache/*.mp3
+audio_cache/*.wav
+.streamlit/
